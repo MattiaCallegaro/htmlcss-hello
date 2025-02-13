@@ -22,6 +22,6 @@ Pubblicare la repo su github pushando anche il file
 Creare un file index.html e inserire nel body un titolo "Hello World".
 Committare e pushare.
 
-Mi raccomando, le repo devono essere pubbliche affinchè possiamo vedere i vostri esercizi
+Mi raccomando,le repo devono essere pubbliche affinchè possiamo vedere i vostri esercizi
 
-Buon lavoro!
+Buon lavoro! 
